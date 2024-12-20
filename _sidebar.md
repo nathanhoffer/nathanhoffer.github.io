@@ -25,7 +25,7 @@
   * [Sculpt Tools](./sculpting/tools.md)
   * [Sculpt Parameters](./sculpting/parameters.md)
   * [Focus](./sculpting/focus.md)
-  * [Gesture Button](./sculpting/sceneaxis.md)
+  * [Gesture Button](./sculpting/gesturebutton.md)
 
 * [Materials Mode](./materials/index.md) 
   * [Material Actions](./materials/actions.md)
